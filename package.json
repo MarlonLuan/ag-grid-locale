@@ -1,0 +1,22 @@
+{
+  "name": "ag-grid-locale",
+  "version": "0.0.1",
+  "description": "Localisation for AG Grid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarlonLuan/ag-grid-locale.git"
+  },
+  "keywords": [
+    "aggrid",
+    "ag-grid",
+    "i18n",
+    "locale",
+    "localisation"
+  ],
+  "author": "Marlon Luan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarlonLuan/ag-grid-locale/issues"
+  },
+  "homepage": "https://github.com/MarlonLuan/ag-grid-locale#readme"
+}
